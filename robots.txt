@@ -1,0 +1,21 @@
+User-agent: Yandex
+Disallow: /assets/
+Disallow: /css/
+Disallow: /db/
+Disallow: /js/
+Disallow: /images/ 
+Host: www.dropper.su
+
+User-agent: Googlebot
+Disallow: /assets/
+Disallow: /css/
+Disallow: /db/
+Disallow: /js/
+Disallow: /images/ 
+
+User-agent: *
+Disallow: /assets/
+Disallow: /css/
+Disallow: /db/
+Disallow: /js/
+Disallow: /images/ 
